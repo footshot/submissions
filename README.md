@@ -9,7 +9,7 @@ Submissions to footshot.net should follow the following guidelines:
 
 * One file per submission.
 * Wrap lines at 80 characters.
-* File names should be: all lowercase, begin with the _language slug_, and 
+* File names should be: all lowercase, begin with the **_language slug_**, and 
   use dashes for spaces.
   e.g. `python.md`, `ruby.md`, `ruby-1.md`, etc.
 * Refrain from editing others' submissions, unless a minor correction is 
@@ -34,7 +34,7 @@ rm: .o: No such file or directory
 
 ```
 
-
+Entries are periodically vetted and slurped into the footshot.net database. Please allow a few days for your entry to appear.
 
 Failure to follow the guinelines above may result in pull request being 
 rejected.
