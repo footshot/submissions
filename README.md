@@ -14,7 +14,7 @@ Submissions to footshot.org should follow the following guidelines:
 ## Sample format:
 
 ```
-Language: Unix
+Technology: Unix
 Author: Unknown
 Published: September 18, 2015
 Version: 1.0
