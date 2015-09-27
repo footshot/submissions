@@ -10,7 +10,7 @@ Submissions to footshot.net should follow the following guidelines:
 
 * One file per submission.
 * Wrap lines at 80 characters.
-* File names should be: all lowercase, begin with the **_techslug_**, and 
+* File names should be: all lowercase, begin with the **_slug_**, and 
   use dashes for spaces.
   e.g. `python.md`, `ruby.md`, `ruby-1.md`, etc.
 * Refrain from editing others' submissions, unless a minor correction is 
@@ -58,7 +58,7 @@ When the joke relies on a specific version of the technology, or some other idea
 
 ### Attribute: Title (optional)
 
-Specify a title for the submission. Overrides the default title (from the **_techslug_**)
+Specify a title for the submission. Overrides the default title (from the **_slug_**)
 
 ### Attribute: Author (optional, preferred)
 
@@ -78,7 +78,7 @@ Increase version number if necessary. This doesn't do much any may be removed.
 
 ### Attribute: Syntax (optional)
 
-Override the syntax highlighter assigned by the **_techslug_**. 
+Override the syntax highlighter assigned by the **_slug_**. 
 To disable highlighting entirely, specify `Syntax: plain`
 
 ### Syntax Highlighting
