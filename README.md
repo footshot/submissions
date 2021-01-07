@@ -20,13 +20,13 @@ Submissions to footshot.net should follow the following guidelines:
 ## Sample format:
 
 ```
-Techslug: unix
+'''
 Title: Unix shell
+Technology: unix
 Author: Unknown
-Published: September 18, 2015
+Published: 2015-12-31
 Version: 1.0
-Syntax: no-highlight
--------
+...
 
 % ls
 foot.c foot.h foot.o toe.c toe.o
@@ -74,7 +74,7 @@ http://php.net/manual/en/function.strtotime.php
 
 ### Attribute: Version (optional)
 
-Increase version number if necessary. This doesn't do much any may be removed.
+Increase version number if necessary.
 
 ### Attribute: Syntax (optional)
 
